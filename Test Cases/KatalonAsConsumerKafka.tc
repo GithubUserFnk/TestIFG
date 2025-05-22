@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KatalonAsConsumerKafka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3c790a0-8d60-44e4-bec0-ac1a883d7831</testCaseGuid>
+</TestCaseEntity>
